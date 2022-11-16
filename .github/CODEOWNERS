@@ -1,4 +1,5 @@
-/ecommerce @rpg600
-/product @salahm
-/stock @skigun
+/ecommerce @global-review
+/product @product-team
+/stock @stock-team
+/order @order-team @skigun
 /deploy @skigun
