@@ -1,5 +1,5 @@
 /ecommerce @global-review
-/product @product-team
-/stock @stock-team
-/order @order-team @skigun
+/product @para-ski/product-team
+/stock @para-ski/stock-team
+/order @para-ski/order-team @skigun
 /deploy @skigun
